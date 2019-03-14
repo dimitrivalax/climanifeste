@@ -136,6 +136,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
+* [Dimitri Valax](http://dimitrivalax.github.io/), développeur indépendant
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
